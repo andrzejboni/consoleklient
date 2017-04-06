@@ -1,0 +1,9 @@
+c:\users\andrzej\documents\visual studio 2015\Projects\ConsoleKLIENT\ConsoleKLIENT\bin\Debug\ConsoleKLIENT.exe.config
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\ConsoleKLIENT\ConsoleKLIENT\bin\Debug\ConsoleKLIENT.exe
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\ConsoleKLIENT\ConsoleKLIENT\bin\Debug\ConsoleKLIENT.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\ConsoleKLIENT\ConsoleKLIENT\obj\Debug\ConsoleKLIENT.exe
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\ConsoleKLIENT\ConsoleKLIENT\obj\Debug\ConsoleKLIENT.pdb
+C:\Users\Andrzej\Documents\Visual Studio 2015\Projects\ConsoleKLIENT\ConsoleKLIENT\obj\Debug\ConsoleKLIENT.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Desktop\Programowanie sieciowe materiały\ConsoleKLIENT\ConsoleKLIENT\bin\Debug\ConsoleKLIENT.exe.config
+C:\Users\Andrzej\Desktop\Programowanie sieciowe materiały\ConsoleKLIENT\ConsoleKLIENT\obj\Debug\ConsoleKLIENT.exe
+C:\Users\Andrzej\Desktop\Programowanie sieciowe materiały\ConsoleKLIENT\ConsoleKLIENT\obj\Debug\ConsoleKLIENT.pdb
